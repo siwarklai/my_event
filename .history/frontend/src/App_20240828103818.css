@@ -1,0 +1,8 @@
+.backgroundImage {
+    background-image: url('C:\Bureau\my_event\frontend\src\comarune.jpg'); /* Replace with your image path */
+    background-size: cover; /* Adjust based on your needs */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    min-height: 100vh; /* Ensure it covers the full viewport height */
+    padding: 20px; /* Optional: Add padding if needed */
+  }

@@ -1,0 +1,53 @@
+.navbar {
+	width: 100%;
+	height: 70px;
+	background-color: #13315C;
+	display: flex;
+	
+	justify-content: space-between;
+}
+.navbar {
+	width: 100%;
+	height: 70px;
+	background-color: #13315C;
+	display: flex;
+	
+	justify-content: space-between;
+}
+
+.navbar h1 {
+	color: white;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-top: 10px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.white_btn {
+	border: none;
+	outline: none;
+	padding: 10px 0;
+	background-color: #F5EFEB;
+	border-radius: 20px;
+	width: 100px;
+	font-weight: bold;
+	font-size: 14px;
+	cursor: pointer;
+	margin-right: 50px;
+	margin: 5px;
+}
+.navbar ul{
+	color: white;
+	display: flex;
+	gap: 50px;
+	margin-top: 20px;
+	margin-left: 650px;
+}
+.navbar li {
+    font-size: 20px; /* Set font size */
+   
+    color: #ffffff; /* Set text color */
+    cursor: pointer; /* Show pointer cursor on hover */
+    transition: color 0.3s ease; /* Smooth transition on hover */
+}
